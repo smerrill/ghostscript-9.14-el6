@@ -1,0 +1,1 @@
+This is GhostScript 9.14.7, rebuilt for EL6.
